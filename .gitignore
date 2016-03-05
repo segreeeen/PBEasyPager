@@ -1,0 +1,14 @@
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/net/swenf/Tools.class
+target/classes/net/swenf/fonts/CourierPrime.ttf
+target/classes/net/swenf/fonts/CourierPrimeBold.ttf
+target/classes/net/swenf/fonts/CourierPrimeBoldItalic.ttf
+target/classes/net/swenf/fonts/CourierPrimeItalic.ttf
+target/classes/net/swenf/fonts/Fonts.class
+target/classes/net/swenf/pager/AbstractPager$Alignment.class
+target/classes/net/swenf/pager/AbstractPager.class
+target/classes/net/swenf/pager/ColumnHelper.class
+target/classes/net/swenf/pager/Pager.class
+target/classes/net/swenf/pager/PagerController$FormattingType.class
+target/classes/net/swenf/pager/PagerController.class
