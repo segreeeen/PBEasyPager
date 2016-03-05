@@ -12,3 +12,4 @@ target/classes/net/swenf/pager/ColumnHelper.class
 target/classes/net/swenf/pager/Pager.class
 target/classes/net/swenf/pager/PagerController$FormattingType.class
 target/classes/net/swenf/pager/PagerController.class
+pom.xml
